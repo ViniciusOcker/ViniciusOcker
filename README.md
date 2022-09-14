@@ -1,15 +1,15 @@
-### Olá, Eu sou o Vinicius! 👋
+### Hi, I'm Vinicius! 👋
 
-- Eu estou aprendendo Java ☕, node.js.
-- Eu sei C,C++,C#,PHP,Python.
-- 😄 Pronouns: Ele/dele
+- I'm learning Java ☕, node.js.
+- I know ,C++,C#,PHP,Python.
+- 😄 Pronouns: He
 
 ##
 
 <div align="center">
   <a href="https://github.com/ViniciusOcker">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=ViniciusOcker&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true&locale=pt-BR"/>
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOcker&layout=compact&langs_count=7&theme=solarized-dark&locale=pt-BR&include_all_commits=true&count_private=true"/>
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=ViniciusOcker&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOcker&layout=compact&langs_count=7&theme=solarized-dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
