@@ -1,7 +1,7 @@
 ### Hi, I'm Vinicius! 👋
 
-- I'm learning node.js.
-- I know Java,C++,C#,PHP,Python.
+- I'm learning React.
+- I know Java,C, C++,C#,PHP,Python, Html, Css, Sass, JavaScript.
 - 😄 Pronouns: He
 
 ##
