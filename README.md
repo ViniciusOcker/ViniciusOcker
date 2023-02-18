@@ -1,6 +1,6 @@
 ### Hi, I'm Vinicius! 👋
 
-- I know ava,C, C++,C#,PHP,Python, Html, Css, Sass, JavaScript.
+- I know Java, Python, C, C++, C#, PHP, Html, Css, Sass, JavaScript.
 - 😄 Pronouns: He
 
 ##
